@@ -1,0 +1,6 @@
+@MimApi_HostAddress = http://localhost:5196
+
+GET {{MimApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
